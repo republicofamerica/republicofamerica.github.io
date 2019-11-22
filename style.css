@@ -13,21 +13,55 @@ body {
   color: rgb(212, 212, 212);
 }
 
-article {
-  margin-right: 50em;
+article.index {
+  margin-left: 1em;
+  margin-right: 40em;
 }
 
-h1.eldian {
-  background-image: url();
+article.lore {
+  margin-right: 20em;
+  margin-left: 20em;
 }
 
-h1.russian {
-  background-image: url("https://cdn.discordapp.com/attachments/604701355818352689/647234182032130078/TNRFFlag.png");
+nav {
+  display: block;
+}
+
+h1 {
+  font-size: 28pt;
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+article.allies {
+  margin-left: 0em;
+  margin-right: 40em;
+}
+
+h2.eldian {
+  text-align: center;
+}
+
+h2.russian {
+  text-align: center;
+}
+
+h2.unitednations {
+  text-align: center;
+}
+
+h1.centertitle {
+  text-align: center;
+  text-decoration: underline;
 }
 
 footer {
   text-align: center;
+  font-weight: bold;
   color: rgb(212, 212, 212);
+  background-image: url("https://cdn.discordapp.com/attachments/645727116452823103/647254453224734721/TROA_flag_10g.png"); background-position-y: 26%;
 }
 
 ul {
