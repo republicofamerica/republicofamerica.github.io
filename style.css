@@ -13,6 +13,18 @@ body {
   color: rgb(212, 212, 212);
 }
 
+article {
+  margin-right: 50em;
+}
+
+h1.eldian {
+  background-image: url();
+}
+
+h1.russian {
+  background-image: url("https://cdn.discordapp.com/attachments/604701355818352689/647234182032130078/TNRFFlag.png");
+}
+
 footer {
   text-align: center;
   color: rgb(212, 212, 212);
