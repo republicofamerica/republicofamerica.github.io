@@ -1,0 +1,21 @@
+/*
+CSS file for TROA Website
+Written by Dakota/Dxsynced
+*/
+
+html {
+  background-color: gray;
+}
+
+header {
+  background-color: gray;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
